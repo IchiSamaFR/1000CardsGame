@@ -1,10 +1,10 @@
 # Matériel & préparation
 
 ## Matériel
-- [ ] ~100 cartes vierges (ex. feuilles A7)
+- [ ] ~100 feuilles vierges au format A7 (74 × 105 mm)
 - [ ] Au moins un stylo ; idéalement crayons de couleur et feutres
 - [ ] Cartes conservées des parties précédentes (facultatif)
-- [ ] Feuille de score (facultatif, voir [Variantes](05-variantes.md))
+- [ ] De la place sur la table devant chaque joueur pour poser ses cartes
 
 ## Préparation
 1. **Règles de base** : se mettre d'accord ; on peut les écrire sur des cartes posées au centre de la table.

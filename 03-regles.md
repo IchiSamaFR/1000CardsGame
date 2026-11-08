@@ -9,16 +9,21 @@ On joue dans le **sens horaire**, en commençant par le joueur à gauche du donn
 
 Une carte peut viser un autre joueur, soi-même ou toute la table.
 
-| Type d'effet | Destination de la carte |
+## Où va la carte jouée ?
+
+| Carte | Destination |
 |---|---|
-| Permanent | Reste sur la table |
-| Momentané | Défausse |
+| Carte à points (+/−) | **Posée devant le joueur ciblé** — elle compte dans son score |
+| Effet permanent | Posée devant le joueur ciblé (ou au centre si elle vise tout le monde) |
+| Effet momentané sans points | Défausse |
+
+Si une carte vise plusieurs joueurs avec des points, elle est posée devant l'un d'eux et chaque autre joueur concerné reçoit une carte vierge annotée du même montant (ou on se met d'accord sur une autre solution).
 
 **Carte blanche** : on écrit/dessine dessus, puis on la joue.
 
 ## Règles immuables (courantes)
 Une carte **ne peut pas** :
-- dépasser **±1000 points** ;
+- dépasser **±100 points** ;
 - faire **gagner ou perdre** directement la partie ;
 - accorder un **tour supplémentaire** ni faire sauter **plus d'un tour** ;
 - voler **plus d'une carte** dans une main adverse ;
@@ -26,7 +31,7 @@ Une carte **ne peut pas** :
 - **limiter la création** de cartes.
 
 ## Fin de partie
-La partie s'arrête quand un joueur doit piocher alors que **la pioche est vide**. Le joueur ayant le plus de points gagne — mais le score compte peu.
+La partie s'arrête **dès qu'un joueur atteint 1000 points** avec les cartes posées devant lui (voir [Décompte des points](05-decompte-des-points.md)). Ce joueur gagne — mais le score compte peu.
 
 ## Épilogue
 Les joueurs choisissent ensemble les cartes à **conserver** pour les prochaines parties. Pour beaucoup, la vraie victoire est de voir ses propres cartes gardées.
