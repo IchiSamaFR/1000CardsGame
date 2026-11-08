@@ -2,7 +2,7 @@
 
 ```
 ┌──────────────────────────────┐
-│ TITRE :              [ ±___ ]│
+│ ⚡/🗿  TITRE :        [ ±___ ]│
 │                              │
 │         [ dessin ]           │
 │                              │
@@ -10,7 +10,6 @@
 │                              │
 │ PARCE QUE :                  │
 │                              │
-│ Posée / Défaussée            │
 │ Auteur :                     │
 └──────────────────────────────┘
 ```
@@ -20,10 +19,10 @@
 | Champ | Valeur |
 |---|---|
 | Titre | |
-| Points | |
+| Type | ⚡ Éclair / 🗿 Totem |
+| Points | (Totem uniquement) |
 | Effet | |
 | Justification | |
-| Destination | Posée devant la cible / Défausse |
 | Cible | Soi / Un joueur / Tous |
 | Auteur | |
 | Partie d'origine | |

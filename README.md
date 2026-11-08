@@ -5,7 +5,8 @@ Jeu d'ambiance (aussi appelé **1KBWC**) dont les cartes sont **inventées par l
 - Joueurs : illimité
 - Âge : enfants comme adultes
 - Durée : variable (jusqu'à ce qu'un joueur atteigne 1000 points)
-- Valeur d'une carte : ±100 points maximum
+- Types de cartes : ⚡ **Éclair** (usage unique) et 🗿 **Totem** (reste en jeu)
+- Valeur d'une carte : ±100 points maximum (Totems uniquement)
 - Score : **cartes posées** — pas de feuille, les points se lisent sur les cartes devant chaque joueur
 
 ## Sommaire
