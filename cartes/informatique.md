@@ -1,8 +1,6 @@
 # Extension 💻 Informatique
 
-Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 Informatique**, utilisée par certaines cartes (ex. `for`, `if`).
-
-> **Éclair 💻** = Éclair portant l'étiquette Informatique.
+Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 Informatique**.
 
 ---
 

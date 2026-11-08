@@ -1,30 +1,69 @@
 # Exemples de cartes
 
+Cartes de base, sans extension : elles ne portent pas d'étiquette.
+
+---
+
 ## 🗿 Totems
 
-### Livraison de bananes en retard — `−100`
-- **Effet** : posée devant la cible.
-- **Parce que** : le camion s'est perdu, les bananes sont noires.
+### `Livraison de bananes en retard`
+| Type | Points | Étiquette |
+|---|---|---|
+| 🗿 Totem | `−100` | — |
 
-### Trésor sous le canapé — `+100`
-- **Effet** : posée devant vous.
-- **Parce que** : 3 pièces, un bouton et une vieille frite.
+**Effet** : posé devant la cible.
 
-### Couronne en carton — `+100`
-- **Effet** : posée devant vous. Tant qu'elle y est, vous dites « Sa Majesté » avant de parler.
-- **Parce que** : vous avez gagné la galette.
+**Parce que** : le camion s'est perdu, les bananes sont noires.
+
+---
+
+### `Trésor sous le canapé`
+| Type | Points | Étiquette |
+|---|---|---|
+| 🗿 Totem | `+100` | — |
+
+**Effet** : posé devant vous.
+
+**Parce que** : 3 pièces, un bouton et une vieille frite.
+
+---
 
 ## ⚡ Éclairs
 
-### Pie voleuse
-- **Effet** : prenez un Totem posé devant un autre joueur et posez-le devant vous.
-- **Parce que** : ça brillait.
+### `Pie voleuse`
+| Type | Points | Étiquette |
+|---|---|---|
+| ⚡ Éclair | — | — |
 
-### Chat sur la table
-- **Effet** : échangez un de vos Totems avec un Totem de votre voisin de gauche.
-- **Parce que** : le chat a tout fait tomber.
+**Effet** : prenez un Totem posé devant un autre joueur et posez-le devant vous.
+
+**Parce que** : ça brillait.
+
+---
+
+### `Chat sur la table`
+| Type | Points | Étiquette |
+|---|---|---|
+| ⚡ Éclair | — | — |
+
+**Effet** : échangez un de vos Totems avec un Totem de votre voisin de gauche.
+
+**Parce que** : le chat a tout fait tomber.
+
+---
+
+## Récapitulatif
+
+| Carte | Type | Points | Effet |
+|---|---|---|---|
+| `Livraison de bananes en retard` | 🗿 Totem | `−100` | Posé devant la cible |
+| `Trésor sous le canapé` | 🗿 Totem | `+100` | — |
+| `Pie voleuse` | ⚡ Éclair | — | Vole un Totem adverse |
+| `Chat sur la table` | ⚡ Éclair | — | Échange un Totem avec le voisin de gauche |
+
+---
 
 ## Cartes gardées
-| Type | Titre | Points | Effet | Auteur | Partie |
-|---|---|---|---|---|---|
-| | | | | | |
+| Type | Titre | Points | Étiquette | Effet | Auteur | Partie |
+|---|---|---|---|---|---|---|
+| | | | | | | |

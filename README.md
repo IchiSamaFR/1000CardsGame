@@ -19,5 +19,6 @@ Jeu d'ambiance (aussi appelé **1KBWC**) dont les cartes sont **inventées par l
 6. [Modèle de carte](cartes/_modele.md)
 7. [Exemples de cartes](cartes/exemples.md)
 8. [Extension 💻 Informatique](cartes/informatique.md)
+9. [Extension 👑 Royal](cartes/royal.md)
 
 Source : [Wikipédia — Jeu des 1 000 cartes blanches](https://fr.wikipedia.org/wiki/Jeu_des_1_000_cartes_blanches)
