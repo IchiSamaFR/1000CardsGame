@@ -194,14 +194,14 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 ---
 
-### `Mise à jour Windows`
+### `Corruption de fichier`
 | Type | Points | Étiquette |
 |---|---|---|
-| ⚡ Éclair | — | 💻 Informatique |
+| 🗿 Totem | — | 💻 Informatique |
 
-**Effet** : choisis un joueur. Il **passe son prochain tour**.
+**Effet** : pose ce Totem devant la cible. Elle **ne pioche pas à son prochain tour**, puis défausse ce Totem.
 
-**Parce que** : redémarrage en cours… ne pas éteindre l'ordinateur (1 / 247).
+**Parce que** : `CHECKSUM ERROR`. Impossible de lire la suite.
 
 ---
 
@@ -225,4 +225,4 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 | `Café` | 🗿 Totem | `+50` | — |
 | `Bug en production` | 🗿 Totem | `−100` | Posé devant la cible |
 | `Mot de passe : 1234` | 🗿 Totem | `+100` | Volable à la place de jouer |
-| `Mise à jour Windows` | ⚡ Éclair | — | Un joueur passe son prochain tour |
+| `Corruption de fichier` | 🗿 Totem | — | La cible ne pioche pas à son prochain tour |
