@@ -13,7 +13,7 @@ Cartes de base, sans extension : elles ne portent pas d'étiquette.
 
 **Effet** : posé devant la cible.
 
-**Parce que** : le camion s'est perdu, les bananes sont noires.
+**Commentaire** : le camion s'est perdu, les bananes sont noires.
 
 ---
 
@@ -24,7 +24,7 @@ Cartes de base, sans extension : elles ne portent pas d'étiquette.
 
 **Effet** : posé devant vous.
 
-**Parce que** : 3 pièces, un bouton et une vieille frite.
+**Commentaire** : 3 pièces, un bouton et une vieille frite.
 
 ---
 
@@ -37,7 +37,7 @@ Cartes de base, sans extension : elles ne portent pas d'étiquette.
 
 **Effet** : prenez un Totem posé devant un autre joueur et posez-le devant vous.
 
-**Parce que** : ça brillait.
+**Commentaire** : ça brillait.
 
 ---
 
@@ -48,7 +48,7 @@ Cartes de base, sans extension : elles ne portent pas d'étiquette.
 
 **Effet** : échangez un de vos Totems avec un Totem de votre voisin de gauche.
 
-**Parce que** : le chat a tout fait tomber.
+**Commentaire** : le chat a tout fait tomber.
 
 ---
 

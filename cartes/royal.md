@@ -11,7 +11,7 @@ Cartes sur le thème de la royauté. Chaque carte porte l'étiquette **👑 Roya
 
 **Effet** : posé devant vous. Tant qu'il y est, vous dites « Sa Majesté » avant de parler.
 
-**Parce que** : vous avez trouvé la fève.
+**Commentaire** : vous avez trouvé la fève.
 
 ---
 
@@ -22,7 +22,7 @@ Cartes sur le thème de la royauté. Chaque carte porte l'étiquette **👑 Roya
 
 **Effet** : posé devant vous. Tant qu'il y est, on doit vous appeler « mon roi » ou « ma reine ».
 
-**Parce que** : le roi est mort. Vive vous !
+**Commentaire** : le roi est mort. Vive vous !
 
 ---
 

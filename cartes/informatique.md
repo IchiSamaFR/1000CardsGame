@@ -13,7 +13,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : la prochaine fois que tu joues un **Éclair 💻**, tu peux exécuter son effet **jusqu'à 3 fois**. Ensuite, défausse ce Totem.
 
-**Parce que** : pourquoi le faire une fois quand on peut le faire en boucle ?
+**Commentaire** : pourquoi le faire une fois quand on peut le faire en boucle ?
 
 > Les règles immuables s'appliquent à **chaque exécution** séparément.
 
@@ -26,7 +26,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : pose ce Totem avec un **Éclair 💻** de ta main **face cachée** dessous, et annonce une condition à voix haute (ex. « si quelqu'un vole un Totem »). Dès que la condition est vraie, retourne l'Éclair et exécute-le, puis défausse les deux cartes.
 
-**Parce que** : un bon développeur anticipe tout. Surtout le pire.
+**Commentaire** : un bon développeur anticipe tout. Surtout le pire.
 
 ---
 
@@ -37,7 +37,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : pose ce Totem devant la cible. Elle **passe son prochain tour**, puis défausse ce Totem.
 
-**Parce que** : boucle infinie. Le programme ne répond plus.
+**Commentaire** : boucle infinie. Le programme ne répond plus.
 
 ---
 
@@ -48,7 +48,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : la prochaine carte qui te cible est **annulée**. Défausse-la avec ce Totem.
 
-**Parce que** : l'exception a été attrapée. Personne ne saura jamais.
+**Commentaire** : l'exception a été attrapée. Personne ne saura jamais.
 
 ---
 
@@ -61,7 +61,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : choisis un joueur. Il **défausse une carte** de sa main au hasard.
 
-**Parce que** : pas de `WHERE`, pas de sauvegarde, pas de pitié.
+**Commentaire** : pas de `WHERE`, pas de sauvegarde, pas de pitié.
 
 ---
 
@@ -72,7 +72,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : défausse une carte de ta main, puis **pioche une carte**.
 
-**Parce que** : on ne supprime pas, on corrige.
+**Commentaire** : on ne supprime pas, on corrige.
 
 ---
 
@@ -83,7 +83,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : **pioche une carte**.
 
-**Parce que** : plus de données, plus de problèmes.
+**Commentaire** : plus de données, plus de problèmes.
 
 ---
 
@@ -94,7 +94,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : choisis un joueur. Il te **montre sa main**.
 
-**Parce que** : requête autorisée, droits d'admin trop larges.
+**Commentaire** : requête autorisée, droits d'admin trop larges.
 
 ---
 
@@ -107,7 +107,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : exécute à nouveau l'effet du **dernier Éclair** de la défausse.
 
-**Parce que** : trouvé sur Stack Overflow, ça a marché.
+**Commentaire** : trouvé sur Stack Overflow, ça a marché.
 
 ---
 
@@ -118,7 +118,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : renvoie dans la main de son propriétaire le **dernier Totem posé**.
 
-**Parce que** : on revient à la version d'avant. Celle qui marchait.
+**Commentaire** : on revient à la version d'avant. Celle qui marchait.
 
 ---
 
@@ -131,7 +131,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : défausse un **Totem** posé devant un autre joueur.
 
-**Parce que** : son travail a été écrasé. Il ne le sait pas encore.
+**Commentaire** : son travail a été écrasé. Il ne le sait pas encore.
 
 ---
 
@@ -142,7 +142,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : échange un de tes **Totems** avec un Totem d'un autre joueur.
 
-**Parce que** : deux versions, une seule branche. Que le meilleur gagne.
+**Commentaire** : deux versions, une seule branche. Que le meilleur gagne.
 
 ---
 
@@ -155,7 +155,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : posé devant toi.
 
-**Parce que** : c'est le serveur qui a un problème.
+**Commentaire** : c'est le serveur qui a un problème.
 
 ---
 
@@ -166,7 +166,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : posé devant toi.
 
-**Parce que** : un développeur est une machine qui transforme le café en code.
+**Commentaire** : un développeur est une machine qui transforme le café en code.
 
 ---
 
@@ -177,7 +177,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : posé devant la cible.
 
-**Parce que** : déployé un vendredi à 17 h 55.
+**Commentaire** : déployé un vendredi à 17 h 55.
 
 ---
 
@@ -188,7 +188,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : posé devant toi. N'importe quel joueur peut, à son tour, **le voler** à la place de jouer une carte.
 
-**Parce que** : sécurité maximale.
+**Commentaire** : sécurité maximale.
 
 ---
 
@@ -199,7 +199,7 @@ Cartes sur le thème de l'informatique. Chaque carte porte l'étiquette **💻 I
 
 **Effet** : pose ce Totem devant la cible. Elle **ne pioche pas à son prochain tour**, puis défausse ce Totem.
 
-**Parce que** : `CHECKSUM ERROR`. Impossible de lire la suite.
+**Commentaire** : `CHECKSUM ERROR`. Impossible de lire la suite.
 
 ---
 
