@@ -63,7 +63,7 @@ Cartes sur le thème de la royauté. Chaque carte porte l'étiquette **👑 Roya
 ### `Expansion`
 | Type | Points | Étiquette |
 |---|---|---|
-| 🗿 Éclair | — | 👑 Royal |
+| 🗿 Totem | — | 👑 Royal |
 
 **Effet** : Jouez une carte supplémentaire pendant votre tour.
 
@@ -79,6 +79,44 @@ Cartes sur le thème de la royauté. Chaque carte porte l'étiquette **👑 Roya
 **Effet** : Ce 🗿 passe sur la table du joueur qui a le plus de 🗿 Royal.
 
 **Commentaire** : la terre appartient à celui qui a le plus de châteaux. Et de voisins fâchés.
+
+---
+
+### `Peste noire`
+| Type | Points | Étiquette |
+|---|---|---|
+| 🗿 Totem | —100  | 👑 Royal |
+
+**Effet** : A la fin de votre tour, donnez cette carte au joueur de droite.
+
+---
+
+### `Bouffon du roi`
+| Type | Points | Étiquette |
+|---|---|---|
+| 🗿 Totem | +50 | 👑 Royal |
+
+**Effet** : Vous vous devez de devenir le bouffon de clui qui a la courrone.
+
+**Commentaire** : faites le rire, sinon gare à la punition !
+
+---
+
+### `Guillotine`
+| Type | Points | Étiquette |
+|---|---|---|
+| ⚡ Éclair | - | 👑 Royal |
+
+**Effet** : Défaussez un 🗿 d'un joueur. Défaussez un 🗿 supplémentaire si le premier 🗿 est royal.
+
+---
+
+### `Complot`
+| Type | Points | Étiquette |
+|---|---|---|
+| ⚡ Éclair | - | 👑 Royal |
+
+**Effet** : Regardez la main d'un joueur puis defaussez une de ses cartes.
 
 ---
 
